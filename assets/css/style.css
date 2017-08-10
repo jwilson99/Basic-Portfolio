@@ -122,6 +122,7 @@ input[type=submit] {
     background-color: #4aaaa5;
     color: #ffffff;
     text-align: center;
+    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 /*contains social media links to gitHug, LinkedIn, and Stack Overflow*/
